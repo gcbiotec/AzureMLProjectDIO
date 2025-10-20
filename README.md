@@ -1,7 +1,5 @@
 # AzureMLProjectDIO
 
-Here is a detailed, step-by-step project plan for building your interactive PDF chat system using the Azure Machine Learning (Azure ML) ecosystem.
-
 This plan focuses on using the Azure ML Workspace as the central hub for development, orchestration, and deployment, integrating with other necessary Azure services.
 
 -----
